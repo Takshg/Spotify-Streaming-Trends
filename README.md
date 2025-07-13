@@ -1,5 +1,4 @@
 # Spotify Streaming Trends Analysis
-UBCO DATA 301 Project
 
 ## 📌 Overview
 
@@ -58,7 +57,7 @@ The dataset contains daily Spotify streaming statistics, including:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/spotify-streaming-analysis.git
+   git clone https://github.com/your-username/spotify-streaming-trends.git
    cd spotify-streaming-trends
     ```
 2. Install required packages:
@@ -72,13 +71,11 @@ The dataset contains daily Spotify streaming statistics, including:
 ---
 
 ## File Structure
-
-spotify-streaming-trends/
-│
-├── spotify_analysis.ipynb       # Jupyter Notebook with all code and plots
-├── requirements.txt             # Python dependencies
-└── README.md                    # Project overview
-
+Spotify Streaming Trends/<br />
+├─ spotify_analysis.ipynb  # Jupyter Notebook with all code and plots <br />
+├─ Requirements.txt # Python dependencies <br />
+├─ README.md # Project overview
+         
 ---
 
 ## Future Work
@@ -97,6 +94,6 @@ spotify-streaming-trends/
 ---
 
 ## Contact 
-Taksh Girdhar
-Data Science BSc | UBC Okanagan
+Taksh Girdhar<br />
+Data Science BSc | UBC Okanagan <br />
 [LinkedIn](https://www.linkedin.com/in/taksh-girdhar-0a7552260/)| [GitHub](https://github.com/Takshg)
